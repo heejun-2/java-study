@@ -50,6 +50,7 @@ public class Solution1859 {
             result += (max * cnt - sum);
 
             System.out.println("#" + i + " " + result);
+
         }
     }
 }
